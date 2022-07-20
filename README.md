@@ -1,0 +1,2 @@
+# HibernateManyToOne
+HibernateManyToOne lab
